@@ -57,20 +57,5 @@ $("#back-to-main").click(function() {
   $(".nav-container").hide();
 });
 
-// $("#main-menu a").click(function() {
-//   $(".menu-button").hide();
-//   $(".menu-button-x").show();
-//   $('.nav-dropdown ul').each(function() {
-//     if($(this).css("display") === "block") {
-//       $(this).hide();
-//       menu.css('margin-left', '0')
-//     }
-//   });
-
-//   $("#main-menu").toggle();
-//   $(".nav-container").toggle();
-
-// });
-
 
 });
